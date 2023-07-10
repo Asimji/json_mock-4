@@ -1,3 +1,181 @@
 {
-    "users":[ ]
+    "quiz":[
+        {
+            "category": "Science",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which company designed the &quot;Betamax&quot; video cassette format?",
+            "correct_answer": "Sony",
+            "incorrect_answers": [
+              "Panasonic",
+              "LG",
+              "Fujitsu"
+            ]
+          },
+          {
+            "category": "Science",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following is the standard THX subwoofer crossover frequency?",
+            "correct_answer": "80 Hz",
+            "incorrect_answers": [
+              "70 Hz",
+              "90 Hz",
+              "100 Hz"
+            ]
+          },
+          {
+            "category": "Science",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was the DVD invented?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+              "2000",
+              "1990",
+              "1980"
+            ]
+          },
+          {
+            "category": "Science",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was the iPhone released?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+              "2005",
+              "2006",
+              "2004"
+            ]
+          },
+          {
+            "category": "Science",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following cellular device companies is NOT headquartered in Asia?",
+            "correct_answer": "Nokia",
+            "incorrect_answers": [
+              "LG Electronics",
+              "Samsung",
+              "HTC"
+            ]
+          },
+          {
+            "category": "Art",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Vincent van Gogh cut off one of his ears.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+              "False"
+            ]
+          },
+          {
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+            "correct_answer": "Salvador Dali",
+            "incorrect_answers": [
+              "Jackson Pollock",
+              "Vincent van Gogh",
+              "Edgar Degas"
+            ]
+          },
+          {
+            "category": "Art",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;",
+            "correct_answer": "True",
+            "incorrect_answers": [
+              "False"
+            ]
+          },
+          {
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many paint and pastel versions of &quot;The Scream&quot; is Norwegian painter Edvard Munch believed to have produced?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+              "1",
+              "3",
+              "2"
+            ]
+          },
+          {
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who painted The Starry Night?",
+            "correct_answer": "Vincent van Gogh",
+            "incorrect_answers": [
+              "Pablo Picasso",
+              "Leonardo da Vinci",
+              "Michelangelo"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Where was the Games of the XXII Olympiad held?",
+            "correct_answer": "Moscow",
+            "incorrect_answers": [
+              "Barcelona",
+              "Tokyo",
+              "Los Angeles"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+            "correct_answer": "Quebec City",
+            "incorrect_answers": [
+              "Houston",
+              "Montreal",
+              "New York"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Why was The Green Monster at Fenway Park was originally built?",
+            "correct_answer": "To prevent viewing games from outside the park.",
+            "incorrect_answers": [
+              "To make getting home runs harder.",
+              "To display advertisements.",
+              "To provide extra seating."
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of Manchester United&#039;s home stadium?",
+            "correct_answer": "Old Trafford",
+            "incorrect_answers": [
+              "Anfield",
+              "City of Manchester Stadium",
+              "St James Park"
+            ]
+          },
+          {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+            "correct_answer": "James Rodr&iacute;guez",
+            "incorrect_answers": [
+              "Thomas M&uuml;ller",
+              "Lionel Messi",
+              "Neymar"
+            ]
+          }
+
+     ]
 }
